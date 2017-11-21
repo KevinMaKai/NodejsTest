@@ -1,0 +1,27 @@
+{
+  "name": "NodejsTest",
+  "version": "1.0.0",
+  "description": "Node.js测试",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinMaKai/NodejsTest.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "mak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinMaKai/NodejsTest/issues"
+  },
+  "homepage": "https://github.com/KevinMaKai/NodejsTest#readme"
+}
