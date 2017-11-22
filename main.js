@@ -43,3 +43,7 @@ fs.readFile('input1.txt',function(err,data){
 	console.log(data.toString());
 });
 console.log("程序执行完毕。");
+
+
+console.log(__filename);
+console.log(__dirname);
